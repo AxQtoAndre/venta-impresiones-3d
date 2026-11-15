@@ -1,0 +1,6 @@
+{
+  "name": "PrintForge INTECAP",
+  "description": "Student-friendly on-demand 3D printing and rapid prototyping service tailored for technical students, vocational trainees, and capstone project creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
